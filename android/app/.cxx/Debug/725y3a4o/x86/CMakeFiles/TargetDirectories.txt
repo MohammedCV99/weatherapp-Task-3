@@ -1,0 +1,2 @@
+D:/Downloads - Copy/weatherapp-Task-1-New/weatherapp-Task-1-New/android/app/.cxx/Debug/725y3a4o/x86/CMakeFiles/edit_cache.dir
+D:/Downloads - Copy/weatherapp-Task-1-New/weatherapp-Task-1-New/android/app/.cxx/Debug/725y3a4o/x86/CMakeFiles/rebuild_cache.dir
