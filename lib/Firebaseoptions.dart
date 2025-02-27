@@ -34,6 +34,7 @@ class DefaultFirebaseOptions {
     }
   }
 
+
   static const FirebaseOptions web = FirebaseOptions(
       apiKey: "AIzaSyAyNeIC27o9Lu99pfCxa8CRLhKlt-CQa78",
       authDomain: "weatherapp-29809.firebaseapp.com",
