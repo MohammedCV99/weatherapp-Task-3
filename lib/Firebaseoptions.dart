@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart'
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
 /// Example:
+///
 /// ```dart
 /// import 'firebase_options.dart';
 /// // ...
@@ -32,6 +33,7 @@ class DefaultFirebaseOptions {
         );
     }
   }
+
 
   static const FirebaseOptions web = FirebaseOptions(
       apiKey: "AIzaSyAyNeIC27o9Lu99pfCxa8CRLhKlt-CQa78",
